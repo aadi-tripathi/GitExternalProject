@@ -1,9 +1,9 @@
+version: 1.0.4
 info:
   model: int-scaffold
 packages:
-- gitBranch: release/1.0.4
+- name: GitExternalProject
   gitServerName: NewTest
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  name: GitExternalProject
-version: 1.0.4
+  gitBranch: release/1.0.4
